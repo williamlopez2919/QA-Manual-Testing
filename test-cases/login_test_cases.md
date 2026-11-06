@@ -17,7 +17,6 @@
 
 ## TC-002 - Login con contraseña incorrecta
 
-| Campo | Detalle |
 | :--- | :--- |
 | **Test Case ID** | TC-002 |
 | **Test Case** | Login con contraseña incorrecta |
@@ -32,7 +31,6 @@
 
 ## TC-003 - Validación de campos obligatorios vacíos
 
-| Campo | Detalle |
 | :--- | :--- |
 | **Test Case ID** | TC-003 |
 | **Test Case** | Validación de campos obligatorios vacíos |
@@ -47,7 +45,6 @@
 
 ## TC-004 - Bloqueo de cuenta por intentos fallidos
 
-| Campo | Detalle |
 | :--- | :--- |
 | **Test Case ID** | TC-004 |
 | **Test Case** | Bloqueo de cuenta por intentos fallidos |
