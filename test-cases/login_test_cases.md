@@ -17,7 +17,7 @@
 
 ## TC-002 - Login con contraseña incorrecta
 
-|---|---|
+| :--- | :--- |
 | **Test Case ID** | TC-002 |
 | **Test Case** | Login con contraseña incorrecta |
 | **Acceptance Criteria** | El sistema debe denegar el acceso a un usuario registrado si introduce una contraseña incorrecta y mostrar un mensaje de error claro. |
