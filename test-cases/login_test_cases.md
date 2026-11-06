@@ -31,7 +31,7 @@
 
 ## TC-003 - Validación de campos obligatorios vacíos
 
-| :--- | :--- |
+|---|---|
 | **Test Case ID** | TC-003 |
 | **Test Case** | Validación de campos obligatorios vacíos |
 | **Acceptance Criteria** | El sistema no debe permitir el envío del formulario si los campos obligatorios (Email y Contraseña) se encuentran vacíos. |
@@ -45,7 +45,7 @@
 
 ## TC-004 - Bloqueo de cuenta por intentos fallidos
 
-| :--- | :--- |
+|---|---|
 | **Test Case ID** | TC-004 |
 | **Test Case** | Bloqueo de cuenta por intentos fallidos |
 | **Acceptance Criteria** | Por motivos de seguridad, el sistema debe bloquear temporalmente la cuenta del usuario tras 3 intentos consecutivos fallidos de inicio de sesión. |
