@@ -17,7 +17,7 @@
 
 ## TC-002 - Login con contraseña incorrecta
 
-| Campo | Detalle |
+
 | --- | --- |
 | **Test Case ID** | TC-002 |
 | **Test Case** | Login con contraseña incorrecta |
