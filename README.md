@@ -3,7 +3,8 @@
 ¡Hola! Bienvenido a mi repositorio de pruebas manuales. Aquí documento mis prácticas profesionales de diseño y ejecución de estrategias de prueba aplicadas a sistemas de Comercio Electrónico (E-Commerce) y plataformas financieras (Banca en Línea).
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
-*   **Gestión y Diseño de Pruebas:** Jira Software / Confluence
+*   **Gestión y Diseño de Pruebas:** Jira Software / Azure DevOps
+
 *   **Metodologías Ágiles:** Scrum (Framework para gestión de HU y Criterios de Aceptación)
 *   **Formatos Estándar:** Documentación Maestra combinando Test Scenarios y Test Cases en tablas GFM (GitHub Flavored Markdown).
 
